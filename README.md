@@ -25,3 +25,9 @@ Participate in code reviews and developer onboarding. Experienced in coordinatin
 ### Interests
 
 Distributed systems · High-load backend · Event-driven architecture · Cloud-native technologies · System design
+
+### Connect with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram\&logoColor=white)](https://t.me/VictorDokuchaev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dokuchaevvn/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail\&logoColor=white)](mailto:dokuchaevvn@gmail.com)
