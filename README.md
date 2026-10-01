@@ -4,13 +4,23 @@ I'm a **Go Backend Engineer based in Russia**, focused on building reliable and 
 
 ### Tech Stack
 
-**Go · PostgreSQL · Redis · Kafka · RabbitMQ · Kubernetes · Docker · Linux · CI/CD · REST · gRPC**
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white)](#)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka\&logoColor=white)](#)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq\&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)](#)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?logo=githubactions\&logoColor=white)](#)
 
 ### Experience
 
-1 year of commercial experience in Go backend development. Experienced with backend performance optimization, testing, TDD, code generation, and distributed systems.
+1 year of commercial experience in backend development. Develop backend services in Go using concurrency, REST APIs and gRPC APIs, with PostgreSQL, Redis, Kafka, and RabbitMQ.
 
-Also experienced in coordinating a **cross-functional team of 9 people**, including task planning, estimation, and allocation.
+Experienced in SQL query and backend performance optimization, unit and integration testing, TDD, and code generation. Use Docker, Kubernetes, and CI/CD for containerization, deployment, and development workflow automation.
+
+Participate in code reviews and developer onboarding. Experienced in coordinating a **cross-functional team of 9 people**, including task planning, estimation, and allocation.
 
 ### Interests
 
