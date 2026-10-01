@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Viktor 👋
 
-<!--
-**ViktorNikolaevichD/ViktorNikolaevichD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Go Backend Engineer based in Russia**, focused on building reliable and scalable backend services.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Go · PostgreSQL · Redis · Kafka · RabbitMQ · Kubernetes · Docker · Linux · CI/CD · REST · gRPC**
+
+### Experience
+
+1 year of commercial experience in Go backend development. Experienced with backend performance optimization, testing, TDD, code generation, and distributed systems.
+
+Also experienced in coordinating a **cross-functional team of 9 people**, including task planning, estimation, and allocation.
+
+### Interests
+
+Distributed systems · High-load backend · Event-driven architecture · Cloud-native technologies · System design
