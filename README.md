@@ -1,4 +1,4 @@
-# Hi, I'm Viktor 👋
+# Hi, I'm Viсtor 👋
 
 I'm a **Go Backend Engineer based in Russia**, focused on building reliable and scalable backend services.
 
@@ -13,6 +13,7 @@ I'm a **Go Backend Engineer based in Russia**, focused on building reliable and 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)](#)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?logo=githubactions\&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)](#)
 
 ### Experience
 
